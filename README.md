@@ -12,7 +12,7 @@ It includes:
 
 After cloning,
 ```
-$ cd react-fluxbox-boilerplate
+$ cd react-authentication-authorization
 $ sudo npm install bower yarn -g
 $ bower install
 $ yarn
